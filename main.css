@@ -1,0 +1,28 @@
+body {
+    display: flex;
+    align-items: center;
+    flex-direction: column
+}
+
+.container {
+    height: 92vh;
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.img {
+    width: 400px;
+}
+
+.btn {
+    font-size: 26px;
+    width: 98%;
+    height: 60px;
+    background: none;
+    border: none;
+    background: green;
+    color: white;
+    border-radius: 40px;
+}
